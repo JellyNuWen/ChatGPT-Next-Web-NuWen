@@ -470,7 +470,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>Kami’ ChatGPT</div>
+            <div className={styles["main-title"]}>Kami’s ChatGPT</div>
             <div className={styles["sub-title"]}>
               基于ChatGPT-Next-Web打造的个人AI助手
             </div>
