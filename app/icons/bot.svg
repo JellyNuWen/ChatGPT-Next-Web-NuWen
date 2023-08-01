@@ -1,59 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#F6E7FF;}
-	.st1{filter:url(#Adobe_OpacityMaskFilter);}
-	.st2{fill:#FFFFFF;}
-	.st3{mask:url(#bg-mask-0_00000104687323937481082660000004156669896998719886_);}
-	.st4{filter:url(#Adobe_OpacityMaskFilter_00000011740883685337972450000011030741170327820167_);}
-	.st5{mask:url(#bg-mask-1_00000146460199214459221580000017666801686026390669_);}
-	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#913BD2;}
-</style>
-<g transform="translate(0 0)  rotate(0 14.999999999999998 14.999999999999998)">
-	<path class="st0" d="M10,0h10c5.5,0,10,4.5,10,10v10c0,5.5-4.5,10-10,10H10C4.5,30,0,25.5,0,20V10C0,4.5,4.5,0,10,0z"/>
-	<defs>
-		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="4.8" y="4.8" width="20.5" height="20.5">
-			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-		</filter>
-	</defs>
-	
-		<mask maskUnits="userSpaceOnUse" x="4.8" y="4.8" width="20.5" height="20.5" id="bg-mask-0_00000104687323937481082660000004156669896998719886_">
-		<g class="st1">
-			<rect id="path_0_00000022550344086800992840000014667579547137919661_" y="0" class="st2" width="30" height="30"/>
-		</g>
-	</mask>
-	<g class="st3">
-		<g transform="translate(4.772727272727272 4.772727272727273)  rotate(0 10.227272727272725 10.227272727272725)">
-			<defs>
-				
-					<filter id="Adobe_OpacityMaskFilter_00000115481119019200450880000007786731179767599549_" filterUnits="userSpaceOnUse" x="0" y="0" width="20.5" height="20.5">
-					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-				</filter>
-			</defs>
-			
-				<mask maskUnits="userSpaceOnUse" x="0" y="0" width="20.5" height="20.5" id="bg-mask-1_00000146460199214459221580000017666801686026390669_">
-				<g style="filter:url(#Adobe_OpacityMaskFilter_00000115481119019200450880000007786731179767599549_);">
-					<rect id="path_1_00000039110303431061848540000002168987621419152820_" x="0" y="0" class="st2" width="20.5" height="20.5"/>
-				</g>
-			</mask>
-			<g class="st5">
-				<path id="分组_1" class="st6" d="M19.1,8.4L19.1,8.4c0.2-0.5,0.3-1.1,0.3-1.6c0-0.9-0.2-1.8-0.7-2.6c-0.9-1.6-2.7-2.6-4.5-2.6
-					c-0.4,0-0.7,0-1.1,0.1C12.1,0.6,10.7,0,9.2,0h0h0c-2.3,0-4.3,1.4-5,3.6C2.7,3.9,1.4,4.8,0.7,6C0.2,6.8,0,7.7,0,8.6
-					c0,1.3,0.5,2.5,1.4,3.4c-0.2,0.5-0.3,1.1-0.3,1.6c0,0.9,0.2,1.8,0.7,2.6c1.1,1.9,3.4,2.9,5.6,2.5c1,1.1,2.4,1.7,3.9,1.7h0h0
-					c2.3,0,4.3-1.4,5-3.6c1.5-0.3,2.7-1.2,3.5-2.5c0.5-0.8,0.7-1.7,0.7-2.6C20.5,10.6,20,9.3,19.1,8.4z M8.9,18.2c0,0-0.1,0-0.1,0.1
-					c0.7,0.6,1.6,0.9,2.5,0.9h0c2.1,0,3.9-1.7,3.9-3.8v-4.8c0,0,0,0,0-0.1l-1.7-1v5.7c0,0.2-0.1,0.4-0.3,0.6L8.9,18.2z M8.3,17
-					l4.2-2.4c0,0,0,0,0-0.1l0,0v-2l-5,2.9c-0.2,0.1-0.5,0.1-0.7,0l-4.1-2.3c0,0-0.1-0.1-0.1-0.1c0,0.2-0.1,0.4-0.1,0.7
-					c0,0.7,0.2,1.3,0.5,1.9v0c0.7,1.2,2,1.9,3.4,1.9C7,17.5,7.7,17.3,8.3,17z M3.9,5.2c0,0,0-0.1,0-0.1c-0.8,0.3-1.6,0.9-2,1.7l0,0
-					C1.5,7.3,1.4,7.9,1.4,8.6c0,1.4,0.7,2.6,1.9,3.3l4.2,2.4c0,0,0,0,0.1,0l1.8-1l-5-2.9C4,10.3,3.9,10.1,3.9,9.9l0,0V5.2z
-					 M17.2,8.5L13,6.1c0,0,0,0-0.1,0l-1.7,1l5,2.9c0.2,0.1,0.3,0.3,0.3,0.6l0,0v4.9c1.5-0.6,2.5-2,2.5-3.6
-					C19.1,10.5,18.4,9.2,17.2,8.5z M8,5.8C8,5.8,8,5.9,8,5.8L8,5.8l0,2L13,5c0.1-0.1,0.2-0.1,0.3-0.1s0.2,0,0.3,0.1l4.1,2.3
-					c0,0,0.1,0.1,0.1,0.1l0,0c0-0.2,0-0.4,0-0.7c0-2.1-1.7-3.8-3.9-3.8c-0.7,0-1.3,0.2-1.9,0.5L8,5.8z M9.1,1.3
-					C7,1.3,5.3,3.1,5.3,5.2v4.8c0,0,0,0,0,0L7,11V5.2v0C7,5,7.2,4.8,7.4,4.6l4.1-2.3c0,0,0.1-0.1,0.1-0.1C10.9,1.6,10,1.3,9.1,1.3z
-					 M8,11.5l2.2,1.3l2.2-1.3V8.9l-2.2-1.3L8,8.9V11.5z"/>
-			</g>
-		</g>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">  <image id="image0" width="60" height="60" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACVVBMVEUAAAD16P/16P/16P/1
+6P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/16P/15f7kx/fS
+p+/Imevlyff25v/u2vvBjOiaStaRO9KdT9jGk+nw3vzTq/GYRtWcTdfcu/THleqZSda8hObWsfHh
+w/bevvXOoe6wbuGRPNKTPNLQpe/ixfbbuvPdvfTnz/n05//SqPC8guXv3PymXNyXRdW3euPs1vuX
+RNXKm+zXsvGgU9m1duK7g+a5fOSrZt63eePJmuvPo+7GlOmvbuGUQNSfUdjoz/njx/aWQ9SWQtTr
+1fvLnezy4f29heaeUNjr1/udTte5feTx3/3EkOnt2fyTPtPUrPGbTNelXNvgwfbbuPPHl+rYtPLN
+oO3Glurr1PqqZN6sad/Rpu+nXtyxceDFkunTqfDDjunVrfDw3fy2eOP05P67g+Xev/WbS9eoYd2+
+h+ezc+GgVNnZtvLUrvCkWdvaufOSPdO+iOfz4v6ubODly/jdvfWxcODLnOzOou64fOSUP9O1d+Ls
+1fulW9vIluqkWtufUtm0duLq0/qZR9bKnOzz4v2pYt3y4P2sZ97u2/vs2PvkyvesZ9+rZd7Ys/Kh
+VdmVQtTcvPTo0Pm2eOKiVtq6fuS7geXfwfaua+Dz4/7EkerEkOrAiuicTtfSqvDkyPffv/Xgwvbn
+zvmjWNrp0fm0dOGVQdTfwPXWsPGUQNPCjumqY93Tq/CycuHp0fq+hufmzfitaN+nYNy4e+Pat/PI
+mOvp0vq9huapY93///8ALdCeAAAAFHRSTlMABUCBtN30Io/pF578X/AGoAq7C6COm4MAAAABYktH
+RMb6AnrNAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAB3RJTUUH5wgBBwURXdFvDAAABHRJREFUSMel
+l/1Dk1UUxwcMHAzR7E5g4JeXIcQw8GXkCidmKE4xhBCIKRFTfBmmMxmGTYEwUis1Ea2kpBeSCoMo
+jezV6v/q3OfZy3323KW089N57j2f597nnHPPPY/BIEpScooxNY1JJS3VmJKcZIgnS0zp7BGSbloi
+RTPMmY9CuWSaM/Ts0qzHQblkLY1Bly1/XJTL8mUi+8SKxbCMrXhSWHeRLNHRtRe159DOI75aPMtY
+yGsZUj9bVmbn5GTnWuPBWWrEzJKpvPxVUKSgsCgObVbySpIbxTZEpGS1HM7kuWbSj5cSU/ZUub1i
+zdOVQNXades3OKp1ViY6C/p8fobYjU5Vz302tIHnauwxZulJhmQdu8kFbA4/1G6JfsDzeVrDZEOK
+Dt4KvBBS19XxNbdtr9/h3knargaNYYrBGINad7+IRnWJPTX0xbamZtX/LxHdslc0NRpSNaizsJVs
+2rja/jJfrK0jMlfrAdyicapBUzfK1eju417bT0rnK+JsPY10Cc9pBnH2VU7SeoR0k2bzWvho84GN
+B9X5HuCQaC/Chwk4svsosJIxX3jH1t4CeuExJc9eo6Afl8MHG4ETfhaGTyqDrx+hFKWXnqqnXRSR
+skEOnwT6/CwCB2iooR84/YZ1oIWoM28yRlk7IIWbXQgSJcDOs+Tf/HN8rpR2hcGhFtWZengYeIsJ
+8NYRGxo9KDuveG3T2xTz4Gi8bXuBAyJMxu9ccAwCFyvUbOvhsfC0S+FLwGERxrvD/LH7PeD9y4rf
+B04BVzqk8FWgSYT7/er4B9coVL4xrnb0AderZXA5nUMRDoQnjqI1iIJ9vCCN7wptLxa+UYlWvliN
+Mq+BAzc/BD7ie/8YuCWN8yH1rc7CCbgdWpixXuAY/24K1k0Z/All86dcuXAbo5MxsBPqwGeAVwaz
+z+nA5iraF5SUX4aCktcpwhSFfCk8NQmMfqX4tXrtKpQUk48sXhtE+A4wLYX9Lp4GX3+jFPqiaQ/q
+vp25iMoCEabd5UjhIcoBSkD03VUev3OjCrhm94nwLLBeCq8Gts19z1c/sYd/RdM8SnqtTITtgOuc
+FB5WyuYPlEaY9439eBr37rczJsKWHtFfGngO+InHcoEf33ng5wfK8C8R2Bqg28cph602eJSi23yJ
+XHdGvaN+dUe87bxNp6qCyWGeATtUrWNzr3IunAGqB1hD5xmYLaNIdov2mtLrCGJ+SIyd9wovolfp
+IN1VavItzX2Vpi369ynM0dTtmuWn/+w413lV7jw/JRpT0TeKj/7fyFOl6nVud/O1+tXryT+Le3Ms
+RowxF90YJ3YOTt9pU27H32dC4yPAH7EsXXQxV6x1JNoUtCyEO5I/PZi4rIOT9Ze701s3ocL94+rI
+1MMgkK1j6XKXtRWWG3+N22kHrr+7HA9mfFR7sF1vZYrT0HBp+CfaE+yv1c8rDY20leJSPXC9SkEn
+H8raKfN/NHGKHB8uXujaK50KNXEJtY+JNa6JtcwJNeuJ/SYk9oOS4K9RYj9l/+N38F+dc7DBFcdq
+FwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wOC0wMVQwNzowNToxNyswMDowMAB6tKoAAAAldEVY
+dGRhdGU6bW9kaWZ5ADIwMjMtMDgtMDFUMDc6MDU6MTcrMDA6MDBxJwwWAAAAKHRFWHRkYXRlOnRp
+bWVzdGFtcAAyMDIzLTA4LTAxVDA3OjA1OjE3KzAwOjAwJjItyQAAAABJRU5ErkJggg==" />
 </svg>
