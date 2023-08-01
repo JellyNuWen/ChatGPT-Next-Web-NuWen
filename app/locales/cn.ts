@@ -258,11 +258,11 @@ const cn = {
   Store: {
     DefaultTopic: "新的聊天",
     BotHello: "这是一个基于：**[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)**打造的个人AI助手，仅供个人使用，分享仅做展示。
-      
-       **提问：** 这个定制化主题很好看，我也能制作吗？
- **回答：** 当然可以，欢迎访问我的[GitHub开放仓库](https://github.com/Cole404/ChatGPT-Next-Web)进行参考。
-                               
-    欢迎来看看[个人网站]（kamiyd.com）",
+       
+      **提问：** 这个定制化主题很好看，我也能制作吗？
+ **回答：** 当然可以，欢迎访问我的[GitHub开放仓库](https://github.com/Cole404/ChatGPT-Next-Web)进行参考。                            
+    
+                                 欢迎来看看[个人网站](kamiyd.com）",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
