@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Kami's ChatGPT",
+  title: "Kami’s ChatGPT",
   description: "An AI assistant Built on ChatGPT Next Web.",
   viewport: {
     width: "device-width",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "Kami's ChatGPT",
+    title: "Kami’s ChatGPT",
     statusBarStyle: "default",
   },
 };
