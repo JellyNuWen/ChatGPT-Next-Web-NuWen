@@ -259,10 +259,12 @@ const cn = {
     DefaultTopic: "新的聊天",
     BotHello: `这是一个基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)打造的个人AI助手，仅供个人使用，分享仅做展示。
 
+**温馨提示：** 本网站使用第三方接口地址，无法在设置中使用你自己的OpenAI API Key，非常抱歉！
+
  **提问：** 这个定制化主题很好看，我也能使用吗？
  **回答：** 当然可以，这是我修改后的[GitHub公开仓库](https://github.com/Cole404/ChatGPT-Next-Web)，欢迎fork、参考～
 
-欢迎来看看我[个人网站](https://kamiyd.com)`,
+欢迎来看看我：[个人网站](https://kamiyd.com)`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
