@@ -266,14 +266,19 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: `这是一个基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)打造的个人AI助手，仅供个人使用，分享仅做展示。
+    BotHello: `这是一个基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)打造的个人AI助手，看到此问候语说明你拥有使用权了。
 
-**温馨提示：** 由于使用第三方接口地址，不支持在设置中使用你自己的官方OpenAI API Key，非常抱歉！
+**温馨提示：** 由于使用第三方接口和API，无法保证此服务持续运营，如果你无法使用或服务中断，请联系我第一时间尝试修复！
 
  **提问：** 这个定制化主题很好看，我也想使用？
- **回答：** 当然可以，这是我修改后的[GitHub公开仓库](https://github.com/Cole404/ChatGPT-Next-Web)，欢迎fork、参考～
+ **回答：** 当然可以，这是[GitHub公开仓库](https://github.com/Cole404/ChatGPT-Next-Web)，欢迎fork修改、参考～
+ 
+ **提问：** 我能把访问密码分享给其他人吗？
+ **回答：** 我不建议你这么做，只有我特别分享者才能拥有密码和使用权。
 
-欢迎来看看我：[个人网站](https://kamiyd.com)`,
+如果你有更多建议和想法，欢迎找我～
+
+本网站是我域名下的一个服务，了解更多服务欢迎访问：[个人网站](https://kamiyd.com)`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
