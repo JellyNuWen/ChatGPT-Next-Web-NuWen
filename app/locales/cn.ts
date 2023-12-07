@@ -342,19 +342,20 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: `这是一个基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)打造的个人AI助手，看到此问候语说明你拥有使用权了。
+    BotHello: `这是一个基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)打造的个人AI助手。
 
-**温馨提示：** 由于使用第三方接口和API，无法保证此服务持续运营，如果你无法使用或服务中断，请联系我第一时间尝试修复！
-
- **提问：** 这个定制化主题很好看，我也想使用？
- **回答：** 当然可以，这是[GitHub公开仓库](https://github.com/Cole404/ChatGPT-Next-Web)，欢迎fork修改、参考～
+**温馨提示：** 本AI搭建于怒文本人的服务器内，免费开放给大家使用，使用官方OpenAI pai，无需任何梯子！
+      
+ **提问：** 如何使用呢？
+ **回答：** 填入官方API KEY即可以使用。没有API KEY，可以在[怒文小商店](https://github.com/Cole404/ChatGPT-Next-Web)里购买APIKEY～
  
- **提问：** 我能把访问密码分享给其他人吗？
- **回答：** 我不建议你这么做，只有我特别分享者才能拥有密码和使用权。
+ **提问：** 我能把APIKEY分享给其他人吗？
+ **回答：** 可以的，但每次回答都会消耗里面的余额，请注意使用量噢~
 
-如果你有更多建议和想法，欢迎找我～
+如果你有更多建议和想法，欢迎咨询联系QQ:2453241235～
+本网站是我域名下的一个服务，了解更多服务欢迎访问：[怒文导航页](https://kamiyd.com)
 
-本网站是我域名下的一个服务，了解更多服务欢迎访问：[个人网站](https://kamiyd.com)`,
+开始使用AI吧～`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
