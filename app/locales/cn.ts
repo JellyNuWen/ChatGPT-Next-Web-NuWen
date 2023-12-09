@@ -7,7 +7,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: isApp
-      ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
+      ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。未购买请前往[怒文小商店](https://shangdian.nuwen.xyz)购买"
       : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
@@ -347,13 +347,13 @@ const cn = {
 **温馨提示：** 本AI搭建于怒文本人的服务器内，免费开放给大家使用，使用官方OpenAI pai，无需任何梯子！
       
  **提问：** 如何使用呢？
- **回答：** 填入官方API KEY即可以使用。没有API KEY，可以在[怒文小商店](https://shangdian.nuwen.com)里购买APIKEY～
+ **回答：** 填入官方API KEY即可以使用。没有API KEY，可以在[怒文小商店](https://shangdian.nuwen.xyz)里购买APIKEY～
  
  **提问：** 我能把APIKEY分享给其他人吗？
  **回答：** 可以的，但每次回答都会消耗里面的余额，请注意使用量噢~
 
 如果你有更多建议和想法，欢迎咨询联系QQ:2453241235～
-本网站是我域名下的一个服务，了解更多服务欢迎访问：[怒文导航页](https://daohang.nuwen.com)
+本网站是我域名下的一个服务，了解更多服务欢迎访问：[怒文导航页](http://daohang.nuwen.xyz:6412/)
 
 开始使用AI吧～`,
     Error: "出错了，稍后重试吧",
